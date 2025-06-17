@@ -36,7 +36,7 @@ pip install opencv-python
 pip install mediapipe
 pip install pydirectinput
 ```
-
+---
 
 # 🚀 How to Run
 Open the game (Hill Climb Racing or any game using arrow keys).
@@ -55,11 +55,15 @@ Place your hand in front of the webcam:
 
 Press q to close the webcam.
 
+---
+
 # 📸 Demo
 
 ![Brake](<Screenshot 2025-06-17 165758.png>)
 
 ![Gas](<Screenshot 2025-06-17 165612.png>)
+
+---
 
 # 🧠 How It Works
 
@@ -75,6 +79,8 @@ Press q to close the webcam.
 
 * Smooth control using natural gestures.
 
+---
+
 # 📁 Folder Structure
 
 ```bash
@@ -86,6 +92,7 @@ GameAutomation
 ├──Screenshot_2025-06-17_165612.png
 └──Screenshot_2025-06-17_165758.png
 ```
+---
 
 # ✅ Requirements
 
@@ -95,9 +102,13 @@ Webcam
 
 Keyboard-controlled game (e.g., Hill Climb Racing for PC)
 
+---
+
 # 📄 License
 
 This project is open-source under the MIT License.
+
+---
 
 # 🙌 Acknowledgements
 
@@ -107,4 +118,4 @@ PyDirectInput for reliable input simulation.
 
 Inspired by games like Hill Climb Racing and the endless potential of automation!
 
-
+---
