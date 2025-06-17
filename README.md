@@ -19,7 +19,7 @@ This project leverages **MediaPipe** for hand tracking, **OpenCV** for video pro
 
 # 🛠️ Technologies Used
 
-- 🔍 [MediaPipe](https://google.github.io/mediapipe/) – Hand Landmark Detection
+- 🔍 MediaPipe – Hand Landmark Detection
 - 🎥 OpenCV – Webcam Input & Visualization
 - 🧠 PyDirectInput – DirectInput-compatible keyboard control
 - 🐍 Python
